@@ -28,4 +28,4 @@
 
 #### 模型
 
-具体的模型`./code/models`以及数据集`./datasets`此处未提供，如有需要请联系作者
+具体的模型`./code/models`以及数据集`./datasets`，在[此处](https://drive.google.com/drive/folders/1BzHF0x_JfG6xRV4vW9z0HGKa1QbMgwhR?usp=sharing)下载
