@@ -30,6 +30,6 @@
 
 具体的模型`./code/models`以及数据集`./datasets`，在[此处](https://drive.google.com/drive/folders/1BzHF0x_JfG6xRV4vW9z0HGKa1QbMgwhR?usp=sharing)下载
 
-### 9/30/2023更新
+### 13/10/2023 更新
 
-增加了四篇相关的参考文献，其中Semstyle是本实验代码的基本框架，PAD的两篇文献仅作了解即可
+增加了相关的参考文献，其中Semstyle是本实验代码的基本框架，PAD的两篇文献仅作了解即可
